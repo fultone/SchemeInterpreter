@@ -1,0 +1,37 @@
+(: Open
+define : Symbol
+make-lazy : Symbol
+(: Open
+lambda : Symbol
+(: Open
+lst : Symbol
+): Close
+(: Open
+if : Symbol
+(: Open
+null? : Symbol
+lst : Symbol
+): Close
+0: Boolean
+(: Open
+cons : Symbol
+(: Open
+car : Symbol
+lst : Symbol
+): Close
+(: Open
+lambda : Symbol
+(: Open
+): Close
+(: Open
+make-lazy : Symbol
+(: Open
+cdr : Symbol
+lst : Symbol
+): Close
+): Close
+): Close
+): Close
+): Close
+): Close
+): Close

@@ -1,0 +1,62 @@
+(: Open
+define : Symbol
+is-prime-greater-or-equal-to-nth? : Symbol
+(: Open
+lambda : Symbol
+(: Open
+val : Symbol
+n : Symbol
+): Close
+(: Open
+cond : Symbol
+[: Open bracket
+(: Open
+<= : Symbol
+n : Symbol
+0: Integer
+): Close
+0: Boolean
+]: Close bracket
+[: Open bracket
+(: Open
+< : Symbol
+val : Symbol
+(: Open
+nth : Symbol
+(: Open
+primes : Symbol
+): Close
+n : Symbol
+): Close
+): Close
+0: Boolean
+]: Close bracket
+[: Open bracket
+(: Open
+equal? : Symbol
+val : Symbol
+(: Open
+nth : Symbol
+(: Open
+primes : Symbol
+): Close
+n : Symbol
+): Close
+): Close
+1: Boolean
+]: Close bracket
+[: Open bracket
+else : Symbol
+(: Open
+is-prime-greater-or-equal-to-nth? : Symbol
+val : Symbol
+(: Open
++ : Symbol
+n : Symbol
+1: Integer
+): Close
+): Close
+]: Close bracket
+): Close
+): Close
+): Close

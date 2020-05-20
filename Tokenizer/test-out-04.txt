@@ -1,0 +1,54 @@
+(: Open
+require : Symbol
+rackunit : Symbol
+): Close
+(: Open
+check-equal? : Symbol
+(: Open
+cons-each : Symbol
+(: Open
+quote : Symbol
+1: Integer
+): Close
+(: Open
+quote : Symbol
+(: Open
+(: Open
+a : Symbol
+b : Symbol
+): Close
+(: Open
+c : Symbol
+): Close
+(: Open
+): Close
+(: Open
+d : Symbol
+e : Symbol
+): Close
+): Close
+): Close
+): Close
+(: Open
+quote : Symbol
+(: Open
+(: Open
+1: Integer
+a : Symbol
+b : Symbol
+): Close
+(: Open
+1: Integer
+c : Symbol
+): Close
+(: Open
+1: Integer
+): Close
+(: Open
+1: Integer
+d : Symbol
+e : Symbol
+): Close
+): Close
+): Close
+): Close

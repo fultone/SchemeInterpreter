@@ -1,0 +1,68 @@
+(: Open
+define : Symbol
+keep-first-n : Symbol
+(: Open
+lambda : Symbol
+(: Open
+n : Symbol
+L : Symbol
+): Close
+(: Open
+cond : Symbol
+(: Open
+(: Open
+< : Symbol
+n : Symbol
+0: Integer
+): Close
+"no negative numbers allowed": String
+): Close
+(: Open
+(: Open
+> : Symbol
+n : Symbol
+(: Open
+length : Symbol
+L : Symbol
+): Close
+): Close
+"n is too big": String
+): Close
+(: Open
+(: Open
+= : Symbol
+n : Symbol
+0: Integer
+): Close
+(: Open
+): Close
+): Close
+0: Boolean
+(: Open
+else : Symbol
+(: Open
+append : Symbol
+(: Open
+list : Symbol
+(: Open
+car : Symbol
+L : Symbol
+): Close
+): Close
+(: Open
+keep-first-n : Symbol
+(: Open
+- : Symbol
+n : Symbol
+1: Integer
+): Close
+(: Open
+cdr : Symbol
+L : Symbol
+): Close
+): Close
+): Close
+): Close
+): Close
+): Close
+): Close
